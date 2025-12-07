@@ -52,6 +52,7 @@ Thumbs.db
 reports/visitor_failures_*.json
 reports/events/*.ndjson
 reports/tmp/
+artifacts/ruff_focus.json
 
 # Logs and temporary files
 *.log
