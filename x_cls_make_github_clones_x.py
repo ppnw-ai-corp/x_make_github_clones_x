@@ -36,6 +36,7 @@ if TYPE_CHECKING:
     from x_make_common_x.stage_progress import RepoProgressReporter
 
 from x_make_common_x.json_contracts import validate_payload
+
 from x_make_github_clones_x.json_contracts import (
     ERROR_SCHEMA,
     INPUT_SCHEMA,
